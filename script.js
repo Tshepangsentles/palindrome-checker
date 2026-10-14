@@ -1,3 +1,4 @@
+   // Palindrome checker logic
 const input = document.getElementById("word-input");
 const checkBtn = document.getElementById("check-btn");
 const clearBtn = document.getElementById("clear-btn");
